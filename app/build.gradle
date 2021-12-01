@@ -76,7 +76,7 @@ android {
         animationsDisabled true
 
         unitTests {
-            includeAndroidResources = true
+            includeAndroidResources = false
         }
     }
 }
